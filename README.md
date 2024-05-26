@@ -1,3 +1,3 @@
 # Calculator
 
-![calculator](./assets/calculator-app.gif/)
+![calculator gif](./assets/calculator-app.gif/)
